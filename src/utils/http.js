@@ -2,7 +2,7 @@
 import axios from 'axios'
 
 const httpInstance = axios.create({
-  baseURL: 'http://pcapi-xiaotuxian-front-devtest.itheima.net',
+  baseURL: 'https://apifox.com/apidoc/shared-fa9274ac-362e-4905-806b-6135df6aa90e/api-24945669',
   timeout: 5000
 })
 
