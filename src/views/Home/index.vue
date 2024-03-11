@@ -1,20 +1,14 @@
-!<template>
+<script>
+</script>
+
+<template>
   <div>
     <!-- -->
     我是首页Home
   </div>
 </template>
 
-<script>
-import { defineComponent } from '@vue/composition-api';
 
-export default defineComponent({
-  setup() {
-    
+<style scoped lang="scss">
 
-    return {
-      
-    };
-  },
-});
-</script>
+</style>
