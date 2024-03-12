@@ -1,13 +1,7 @@
 <script setup>
-// const categoryList = ref([])
-// const getCategory = async() =>{
-//   const res = await getCategoryAPI();
-//   console.log("res", res);
-//   categoryList.value = res.result;
-// }
-// 使用pinia中的数据
-import { useCategoryStore } from '@/stores/category'
-const categoryStore = useCategoryStore();
+  // 使用pinia中的数据
+  import { useCategoryStore } from '@/stores/category'
+  const categoryStore = useCategoryStore();
 </script>
 
 <template>
