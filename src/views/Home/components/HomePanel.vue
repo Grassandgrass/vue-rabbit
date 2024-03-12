@@ -10,7 +10,7 @@ defineProps({
     }
 })
 </script>
-
+    
 <template>
   <div class="home-panel">
     <div class="container">
